@@ -26,10 +26,7 @@ appVersion: "1.16.0"
 dependencies:
   - name: sub-chart-1
     repository: https://lloydsmithjr03.github.io/helm-charts
-    version: 0.1.1
   - name: sub-chart-2
     repository: https://lloydsmithjr03.github.io/helm-charts
-    version: 0.1.1
   - name: sub-chart-3
     repository: https://lloydsmithjr03.github.io/helm-charts
-    version: 0.1.1
