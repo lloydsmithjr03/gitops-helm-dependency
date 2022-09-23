@@ -23,7 +23,7 @@ spec:
       project: default
       source:
         repoURL:  https://github.com/lloydsmithjr03/gitops-helm-dependency.git
-        targetRevision: 0.1.0
+        targetRevision: HEAD
         path: '{{path}}'
         helm:
           releaseName: '{{path.basename}}-{{name}}'
