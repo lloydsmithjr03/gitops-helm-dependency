@@ -29,7 +29,7 @@ dependencies:
     version: 0.1.1
   - name: sub-chart-2
     repository: https://lloydsmithjr03.github.io/helm-charts
-    version: 0.1.1
+    version: 0.1.2
   - name: sub-chart-3
     repository: https://lloydsmithjr03.github.io/helm-charts
     version: 0.1.1
