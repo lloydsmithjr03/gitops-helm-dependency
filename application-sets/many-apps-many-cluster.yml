@@ -12,7 +12,7 @@ spec:
               repoURL: https://github.com/lloydsmithjr03/gitops-helm-dependency.git
               revision: HEAD
               directories:
-                - path: root-chart/
+                - path: charts/*
           # cluster generator, 'child' #2
           - clusters:
               {}
