@@ -1,0 +1,12 @@
+dependencies:
+- name: sub-chart-1
+  repository: https://lloydsmithjr03.github.io/helm-charts
+  version: 0.1.1
+- name: sub-chart-2
+  repository: https://lloydsmithjr03.github.io/helm-charts
+  version: 0.1.1
+- name: sub-chart-3
+  repository: https://lloydsmithjr03.github.io/helm-charts
+  version: 0.1.1
+digest: sha256:460e456edea1f90f3d845e8ed0ce53f117152f9ef8c9d4d36fa5d22ad744edcf
+generated: "2022-09-23T11:08:17.6911088-04:00"
